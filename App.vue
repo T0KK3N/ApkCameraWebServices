@@ -27,7 +27,7 @@ const StackNavigator = createStackNavigator(
   {
     defaultNavigationOptions: {
       gestureEnabled: false,
-      title: "EA-NR - este si",
+      title: "DEMO",
       headerTitleStyle: {
         textAlign: "center",
         alignSelf: "center",

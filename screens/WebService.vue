@@ -41,13 +41,13 @@ import axios from "axios";
 export default {
   data() {
     return {
-      message: "Finalizo la demo",
+      message: "Demo",
       users: null,
       photos: null,
       clickedUser: "",
       mostrarUsuarios: true,
       mostrarFotos: false,
-      client_id: "Hv3grbES5Z38da9vEGycjwmZ1YR6kEK8AJlTYyo2J08"
+      client_id: "J9y1ioVGhXSHbAfr7gGXudpnwxkYZ3sMNSvDgsmG_vE"
     };
   },
   mounted() {

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "EA-NR",
-    "slug": "EA-NR",
+    "name": "DEMO",
+    "slug": "DEMO",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": ["ios", "android", "web"],
@@ -12,6 +12,9 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#d0d3af"
+    },
+    "android":{
+      "package": "com.vue.gifs"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,5 +27,6 @@
       "sourceExts": ["js", "json", "ts", "tsx", "vue"],
       "config": "metro.config.js"
     }
+    
   }
 }
